@@ -1,6 +1,6 @@
 # Getting-and-cleaning-data
 This is a repository for the Coursera Course: getting and cleaning data
-title: 'ReadMe for Peer-graded Assignment: Getting and Cleaning Data Course Project'
+title: 'Peer-graded Assignment: Getting and Cleaning Data Course Project'
 author: "Julia"
 date: "2025-08-20"
 output: html_document
