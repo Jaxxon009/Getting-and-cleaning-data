@@ -1,14 +1,9 @@
-# Getting-and-cleaning-data
-This is a repository for the Coursera Course: getting and cleaning data
-title: 'Peer-graded Assignment: Getting and Cleaning Data Course Project'
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
+
 author: "Julia"
 date: "2025-08-20"
-output: html_document
----
 
-```{r setup, include=FALSE}
 
-```
 ## This repository is a submission for Getting and Cleaning Data course project. 
 Dataset for Human Activity Recognition Using Smartphones was taken form [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
